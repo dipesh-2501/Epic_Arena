@@ -285,6 +285,10 @@ hr {
         flex-wrap: wrap;
         row-gap: 40px;
     }
+
+    .main-form{
+        height: 100vh;
+    }
 }
 
 @media screen and (max-width:768px) {
